@@ -2,8 +2,8 @@
 # Nihal Baz 👋
 
 Étudiante en M1 Informatique à l'Université Clermont-Auvergne — en recherche d'un stage pour l'année 2026.
-
 Je suis motivée, curieuse et j'aime résoudre des problèmes concrets par le code.
+
 ---
 
 ## Contact
